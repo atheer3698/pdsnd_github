@@ -11,4 +11,3 @@ https://www.divvybikes.com/system-data
 https://www.citibikenyc.com/system-data
 https://www.capitalbikeshare.com/system-data
 
-Programming for Data Science
