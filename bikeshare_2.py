@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 #Programming for Data Science
 #Nanodegree Program
+=======
+#refactoring branch
+>>>>>>> refactoring
 import time
 import pandas as pd
 import numpy as np
@@ -51,7 +55,7 @@ def load_data(city, month, day):
     Returns:
         df - Pandas DataFrame containing city data filtered by month and day
     """
-    #load data file into a dataframe
+    #TO DO: load data file into a dataframe
     df = pd.read_csv(CITY_DATA[city])
 
     return df
