@@ -1,3 +1,4 @@
+#Programming for Data Science
 import time
 import pandas as pd
 import numpy as np
@@ -79,8 +80,6 @@ def time_stats(df):
     popular_hour = df['hour'].mode()[0]
     print('Most Popular Start Hour:', popular_hour)
 
-
-    
     
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
